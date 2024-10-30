@@ -1,0 +1,1 @@
+This project is a simple graphical user interface(GUI) application built in Python using  Tkinter  library. The main  purpose of this project is to create a login form where users can enter a email and password, simulating a basic authentication system commonly found in desktop and web applications.
